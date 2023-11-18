@@ -3,6 +3,8 @@
   "version": "1.0.0",
   "description": "Emmmet:\r  Emmet is a plug in for many popular text editors which greatly improves HTML & CSS workflow",
   "scripts": {
+    "start": "parcel index.html",
+    "build":"parcel build index.html",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
